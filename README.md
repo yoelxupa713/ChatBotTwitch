@@ -1,4 +1,4 @@
-<img width="953" height="470" alt="Image" src="https://github.com/user-attachments/assets/37728e90-44f2-4122-8983-30501288fd92" />
+![Image](https://github.com/user-attachments/assets/2a4381a8-7ce8-4098-8d65-faa1697ee3d0)
 
 ---
 
