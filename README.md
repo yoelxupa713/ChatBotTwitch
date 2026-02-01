@@ -1,46 +1,60 @@
-Twitch Chat Tool
+Sure — here’s a **GitHub-style README description**, clean and straight to the point:
 
-A lightweight Twitch chat automation tool with a built-in anti-ban system to help reduce the risk of bans related to HUD usage.
+---
 
-⚠️ Windows only
+# Twitch Chat Tool
 
-Features
+A lightweight Twitch chat automation tool with a built-in **anti-ban system** to help reduce the risk of bans related to HUD usage.
 
-Automated Twitch chat messages
+⚠️ **Windows only**
 
-Support for multiple channels
+---
 
-Built-in anti-ban protection
+## Features
 
-Simple text-based configuration
+* Automated Twitch chat messages
+* Support for **multiple channels**
+* Built-in **anti-ban protection**
+* Simple text-based configuration
 
-Requirements
+---
 
-Windows OS
+## Requirements
 
-Valid Twitch token
+* Windows OS
+* Valid Twitch token
 
-Setup & Usage
+---
 
-Add your Twitch token to:
+## Setup & Usage
 
-tokens.txt
+1. Add your Twitch **token** to:
+
+   ```
+   tokens.txt
+   ```
+
+2. If you want to use **multiple channels**, add the channel names to:
+
+   ```
+   channels.txt
+   ```
+
+3. Add the messages the chat will send to:
+
+   ```
+   messages.txt
+   ```
+
+4. Run the tool and enjoy automated chat messaging.
+
+---
+
+## Notes
+
+* This tool is designed **only for Windows**.
+* The anti-ban system helps prevent bans, but use responsibly.
+
+---
 
 
-If you want to use multiple channels, add the channel names to:
-
-channels.txt
-
-
-Add the messages the chat will send to:
-
-messages.txt
-
-
-Run the tool and enjoy automated chat messaging.
-
-Notes
-
-This tool is designed only for Windows.
-
-The anti-ban system helps prevent bans, but use responsibly.
