@@ -1,4 +1,4 @@
-Sure — here’s a **GitHub-style README description**, clean and straight to the point:
+<img width="953" height="470" alt="Image" src="https://github.com/user-attachments/assets/37728e90-44f2-4122-8983-30501288fd92" />
 
 ---
 
